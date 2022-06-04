@@ -9,3 +9,5 @@ API --> Python transformation --> Postgres DB --> SQL Aggregations --> Tableau D
 
 Ultimate goal:
 Develop ETL skills and enrich BI-expertise. 
+
+Link to see the dashboard: https://public.tableau.com/app/profile/grigorii6027/viz/RetailDashboard_16543385235570/Dashboard1?publish=yes
